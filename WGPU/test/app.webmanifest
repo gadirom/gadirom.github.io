@@ -1,0 +1,13 @@
+{
+  "name": "Fragmented Existance",
+  "description": "Fragmented Existence is a thought-provoking interactive art installation
+  that delves into the delicate balance of organic life.","screenshots": [
+    {
+      "src": "thumbnail.png",
+      "sizes": "2880x1800",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Project Thumbnail"
+    },
+  ]
+}
